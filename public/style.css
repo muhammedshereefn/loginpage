@@ -1,0 +1,12 @@
+
+
+body{
+    
+    background-image: url('/assets/backp.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+}
